@@ -1,0 +1,15 @@
+.modal_container {
+  background-color: #dfcd9c;
+  margin: auto;
+  align-items: baseline;
+  border: thick double #099dd7;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 15px;
+}
+
+.modal_container::backdrop {
+  background: rgb(0 0 0 / 0.7);
+}

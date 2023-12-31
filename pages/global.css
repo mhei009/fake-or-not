@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "aoboshi";
+  src: url(AoboshiOne-Regular.ttf);
+}
+
+h1 {
+  -webkit-text-stroke: 0, 5px rgb(96, 67, 9);
+}
+
+h6 {
+  color: aliceblue;
+}
